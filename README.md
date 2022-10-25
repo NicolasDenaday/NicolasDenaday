@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NicolasDenaday
-- 👀 I’m interested in the IT world, Web3 and web/apps development.
+- 👀 I’m interested in the IT world and web/apps development.
 - 🌱 I’m currently studying FullStack Web Development at Digital House.
 - 📫 How to reach me: - Personal email: nicodenaday@gmail.com - Linkedin: www.linkedin.com/in/nicolasdenaday
