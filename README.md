@@ -1,7 +1,7 @@
-Hola! Mi nombre es Nicolás Denaday
-Estoy muy interesado en el mundo IT y en el desarrollo de apps y webs.
-En Enero de 2023 finalicé mis estudios de Desarrollador FullStack en DigitalHouse.
-Como contactarme: - Email personal: nicodenaday@gmail.com - Linkedin: www.linkedin.com/in/nicolasdenaday
+- Hola! Mi nombre es Nicolás Denaday
+- Estoy muy interesado en el mundo IT y en el desarrollo de apps y webs.
+- En Enero de 2023 finalicé mis estudios de Desarrollador FullStack en DigitalHouse.
+- Como contactarme: - Email personal: nicodenaday@gmail.com - Linkedin: www.linkedin.com/in/nicolasdenaday
 
 
 
