@@ -1,4 +1,4 @@
-🎮 Game Developer | Unity · C# · Autodesk Maya
+🎮 Game Developer | Unity · C# 
 
 Estudiante de Diseño y Producción de Videojuegos en Da Vinci.
 Apasionado por el desarrollo de juegos, desde la programación hasta el arte 2D/3D.
@@ -7,8 +7,9 @@ Apasionado por el desarrollo de juegos, desde la programación hasta el arte 2D/
 - Unity · C# · Construct 3
 - Autodesk Maya · Substance Painter · Photoshop - ZBrush
 
-📌 Proyectos destacados
-→ Pokemon Gray - Itch.io https://nikito1.itch.io/pokemon-grey
+📌 Featured Projects
+
+→ Pokemon Gray - Construct 3 - Itch.io https://nikito1.itch.io/pokemon-grey
 
 → [Proyecto Unity 2D #1]
 
@@ -16,4 +17,6 @@ Apasionado por el desarrollo de juegos, desde la programación hasta el arte 2D/
 
 → Stylised Construction Mech - Sketchfab https://sketchfab.com/3d-models/stylised-construction-mech-college-project-fee056aaffcd4914aaf1981397376978
 
-📫 nicodenaday@gmail.com | https://www.linkedin.com/in/nicolasdenaday/
+📫 Contact
+
+nicodenaday@gmail.com | https://www.linkedin.com/in/nicolasdenaday/
