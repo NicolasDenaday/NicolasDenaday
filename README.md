@@ -14,4 +14,6 @@ Apasionado por el desarrollo de juegos, desde la programación hasta el arte 2D/
 
 → [Proyecto Unity 2D #2]
 
+→ Stylised Construction Mech - Sketchfab https://sketchfab.com/3d-models/stylised-construction-mech-college-project-fee056aaffcd4914aaf1981397376978
+
 📫 nicodenaday@gmail.com | https://www.linkedin.com/in/nicolasdenaday/
