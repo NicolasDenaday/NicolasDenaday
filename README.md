@@ -1,11 +1,17 @@
-- Hola! Mi nombre es Nicolás Denaday
-- Estoy muy interesado en el mundo IT y en el desarrollo de apps y webs.
-- En Enero de 2023 finalicé mis estudios de Desarrollador FullStack en DigitalHouse.
-- Como contactarme: - Email personal: nicodenaday@gmail.com - Linkedin: www.linkedin.com/in/nicolasdenaday
+🎮 Game Developer | Unity · C# · Autodesk Maya
 
+Estudiante de Diseño y Producción de Videojuegos en Da Vinci.
+Apasionado por el desarrollo de juegos, desde la programación hasta el arte 2D/3D.
 
+🛠️ Tech Stack
+- Unity · C# · Construct 3
+- Autodesk Maya · Substance Painter · Photoshop - ZBrush
 
-- 👋 Hi, I’m @NicolasDenaday
-- 👀 I’m interested in the IT world and web/apps development.
-- 🌱 I finished my FullStack web development studies at DigitalHouse in January 2023.
-- 📫 How to reach me: - Personal email: nicodenaday@gmail.com - Linkedin: www.linkedin.com/in/nicolasdenaday
+📌 Proyectos destacados
+→ Pokemon Gray - Itch.io https://nikito1.itch.io/pokemon-grey
+
+→ [Proyecto Unity 2D #1]
+
+→ [Proyecto Unity 2D #2]
+
+📫 nicodenaday@gmail.com | https://www.linkedin.com/in/nicolasdenaday/
