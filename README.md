@@ -17,6 +17,8 @@ Apasionado por el desarrollo de juegos, desde la programación hasta el arte 2D/
 
 → Stylised Construction Mech - Sketchfab https://sketchfab.com/3d-models/stylised-construction-mech-college-project-fee056aaffcd4914aaf1981397376978
 
+→ Chunky Samurai - Sketchfab https://sketchfab.com/3d-models/chunky-samurai-stylized-character-beb29aca540240c59be3012109ac0d76
+
 📫 Contact
 
 nicodenaday@gmail.com | https://www.linkedin.com/in/nicolasdenaday/
